@@ -1,1 +1,3 @@
 # Simulation_of_a_parachutist_landing_using_OpenGL
+Hi, my project using openGl, which is experimenting with a simulation of a physical phenomenon, which is the phenomenon of "parachute drop"...
+Ensure that the libraries for the project are included
